@@ -1,7 +1,7 @@
 # git-learning-assignment
 Ayushi Patnaik Mtech student 
 <br>
-Learning GitHub 
+Learning GitHub  is interesting
 <br>
 30 May 2026
 <br>
