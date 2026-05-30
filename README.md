@@ -1,8 +1,8 @@
 # git-learning-assignment
 Ayushi Patnaik Mtech student 
 <br>
-Learning GitHub  is interesting
+Learning GitHub  is important
+<br>
+learning is amazing
 <br>
 30 May 2026
-<br>
-To learn GitHub and Git
