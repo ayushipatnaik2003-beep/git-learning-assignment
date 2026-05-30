@@ -1,0 +1,5 @@
+GIT is version control system
+Free ,open sources,fast and scalabel 
+Helps in collaboration
+Trak codes history
+GitHub is a website to store and manage project
