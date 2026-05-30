@@ -3,3 +3,5 @@ Free ,open sources,fast and scalabel
 Helps in collaboration
 Trak codes history
 GitHub is a website to store and manage project
+Through this i am learning how to clone 
+GitHub uses push command to input the local text into remote  
